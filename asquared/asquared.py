@@ -1,6 +1,6 @@
 print "This is a sample application"
 
-val1 = 1
+val1 = 9
 val2 = 2
 
 asq = (val1 ** 2) + (val2 ** 2)
